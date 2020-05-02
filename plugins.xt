@@ -1,4 +1,16 @@
+ssh-slaves
+email-ext
+mailer
+greenballs
+htmlpublisher
+htmlpublisher
 pipeline-multibranch-defaults
 kubernetes
 docker-plugin
 job-dsl
+git
+github
+github-pullrequest
+throttle-concurrents
+rebuild
+pipeline-maven
