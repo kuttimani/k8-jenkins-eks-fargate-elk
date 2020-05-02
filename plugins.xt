@@ -1,0 +1,4 @@
+pipeline-multibranch-defaults
+kubernetes
+docker-plugin
+job-dsl
