@@ -3,7 +3,6 @@ email-ext
 mailer
 greenballs
 htmlpublisher
-htmlpublisher
 pipeline-multibranch-defaults
 kubernetes
 docker-plugin
@@ -14,3 +13,4 @@ github-pullrequest
 throttle-concurrents
 rebuild
 pipeline-maven
+workflow-cps-global-lib
