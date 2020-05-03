@@ -1,2 +1,2 @@
 @Library('shared-library') _
-dockerbuildImage('python-docker-build/Dockerfile','kuttimani/pydocker-build')
+dockerbuildImage('dockerbuilds/pybuildDockerfile','kuttimani/pydocker-build')
