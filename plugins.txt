@@ -14,3 +14,6 @@ throttle-concurrents
 rebuild
 pipeline-maven
 workflow-cps-global-lib
+workflow-aggregator
+docker-build-step
+docker-slaves
