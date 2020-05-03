@@ -1,0 +1,11 @@
+in miikube jenknins code as config:
+jenkinsUrl: ex: "http://172.17.0.4:8080"
+kubectl get pods
+kubectl describe pods jenkins-master-deployment-5649988659-8xztq
+IP: section will show ip
+port is http port
+
+kubernetes url: kubectl cluster-info | grep master
+               https://192.168.64.3:8443
+
+container template use: kuttimani/jenkins-dind-slave:0.1
