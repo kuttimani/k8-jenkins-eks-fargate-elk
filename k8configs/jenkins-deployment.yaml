@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: jenkins-master
-          image: kuttimani/jenkins-k8-image:0.6
+          image: kuttimani/jenkins-k8-image:0.9
           imagePullPolicy: Always
           ports:
             - name: http-port

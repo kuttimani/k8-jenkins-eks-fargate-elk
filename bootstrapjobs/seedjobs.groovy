@@ -1,11 +1,11 @@
-folder('testjobs'){
-    displayName('hello world')
-    description('test jobs')
+folder('dockerjobs'){
+    displayName('docker jobs')
+    description('docker k8 jobs')
 }
 // pipeline reference http://<jenkins url>/plugin/job-dsl/api-viewer/index.html
 pipelineJob('testjobs/hello-world'){
     definition {
-        displayName('Build test job')
+        displayName('Build python docker image')
         logRotator {
           daysToKeep(5)
           numToKeep(5)
