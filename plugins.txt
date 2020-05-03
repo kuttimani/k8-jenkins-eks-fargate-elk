@@ -17,3 +17,5 @@ workflow-cps-global-lib
 workflow-aggregator
 docker-build-step
 docker-slaves
+configuration-as-code
+configuration-as-code-groovy
